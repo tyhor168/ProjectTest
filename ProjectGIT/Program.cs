@@ -11,6 +11,8 @@ namespace ProjectGIT
         {
             string myname = "Saingly";
             Console.Write(myname);
+            string myUserName ="tyhor";
+            Console.Write(myUserName);
         }
     }
 }
