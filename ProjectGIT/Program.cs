@@ -9,6 +9,8 @@ namespace ProjectGIT
     {
         static void Main(string[] args)
         {
+            string myname = "Saingly";
+
         }
     }
 }
